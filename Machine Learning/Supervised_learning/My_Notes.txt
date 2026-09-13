@@ -1,0 +1,14 @@
+Algorithms use in --->
+ 
+Linear regression- Regression
+Logistic regression- Classification
+Naive Bayes- Classification
+KNN(K-Nearest neighbour)-Regression and Classification
+Decision Tree- Regression and Classification
+SVM(Support vector machine)-Regression and Classification
+
+###########################################################
+
+R² (R-square): Measures how much of the output variation is explained by the input features.
+
+Model Score (Linear Regression): The model’s built-in R² value that shows overall prediction quality.
